@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YVTeSSp1pf0Lu3z/1kfUlLMf6FGrIqqBVo5LWpmGaUXBThXEzVHARFC52O+R+vkZP5sULf1urwSfg4V4jYJOCQ==",
+  "success": true,
+  "projectFilePath": "/home/michael/code/Algos/DependencyInjection/DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "/home/michael/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

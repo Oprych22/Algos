@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25ce8ce6_002D163e_002D4583_002Dbb45_002D5ca679056ddb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FibTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.FibTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.CountTrips&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.FreqQuery&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.Steps(7)&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.Steps&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.ranks&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.sets&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.MaxDepth&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.IsBinaryTree&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.IsBinaryTree_FalseRight&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.IsBinaryTree_False&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.IsAnagram&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.ReduceString&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.CountChange&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
