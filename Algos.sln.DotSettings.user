@@ -15,5 +15,9 @@
     &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.IsAnagram&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.ReduceString&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.CountChange&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.LongestSubstring&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.EquilibriumPoint&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.KthElement&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::7BFB5D1B-D265-4E60-9165-B15AA78FD0E6::.NETCoreApp,Version=v3.1::AlgoTest.Tests.SmallestSubsetGreaterThanK&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

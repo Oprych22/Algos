@@ -125,5 +125,38 @@ namespace AlgoTest
             
             return Algos.MakeChange.Change(s, new List<long>() {2,5,3,6 });
         }
+        
+        [TestCase("abcabcbb" , ExpectedResult = 3)]
+        [TestCase("tmmzuxt" , ExpectedResult = 5)]
+        public int LongestSubstring(string s)
+        {
+            return Algos.LongestSubstringNoRepeats.LengthOfLongestSubstring(s);
+        }
+
+
+        [TestCase(new int[] { 1 }, 1 , ExpectedResult = 1)]
+        [TestCase(new int[] {1,3,5,2,2}, 5, ExpectedResult = 3)]
+        [TestCase(new int[] {1,1,1,1,3,4}, 6, ExpectedResult = 5)]
+        public int EquilibriumPoint(int[] s, int j)
+        {
+            return Algos.EquilbriumPoint.Solve(s, j);
+        }
+        
+        
+        [TestCase(new int[] {2, 3, 6, 7, 9},new int[]{1, 4, 8, 10}, 5, ExpectedResult = 6)]
+        [TestCase(new int[] {100, 112, 256, 349, 770},new int[]{72, 86, 113, 119, 265, 445, 892}, 7, ExpectedResult = 256)]
+        public int KthElement(int[] a, int[] b, int j)
+        {
+            return Algos.KthElementTwoSortedArrays.Solve(a,b, j);
+        }
+        
+        
+        [TestCase(new int[] {2, 3, 6, 7, 9}, 8, ExpectedResult = 1)]
+        [TestCase(new int[] {1, 2, 2, 1, 1}, 4, ExpectedResult = 2)]
+        [TestCase(new int[] {1, 1, 1, 1, 1}, 5, ExpectedResult = 5)]
+        public int SmallestSubsetGreaterThanK(int[] a, int j)
+        {
+            return Algos.SmallestSubsetGreaterThanK.Solve(a, j);
+        }
     }
 }
